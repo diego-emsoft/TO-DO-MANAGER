@@ -1,0 +1,14 @@
+﻿[]
+Coordinates=10,10,58,51
+Visible=True
+
+[LblAppName]
+Coordinates=157,10,77,33
+
+[Profile]
+Coordinates=10,71,74,33
+Visible=True
+
+[Menu]
+Coordinates=78,10,69,33
+
